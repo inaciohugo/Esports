@@ -4,11 +4,11 @@
  
 <a href="https://inaciohugo.github.io/Esports/">🔗 Click here to check</a> 
   
-  <h2> 🛠 Technologies </h2>
+  <h2> 🛠 Technologies: </h2>
   
   + HTML
   + CSS 
   + Git and GitHub
   
-  <h2> 📧 Contact </h2>
+  <h2> 📧 Contact: </h2>
   inaciohugo@sapo.pt
