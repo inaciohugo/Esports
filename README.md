@@ -1,6 +1,7 @@
 <h1> NLW eSports </h1> 
 
-![image](https://user-images.githubusercontent.com/108989054/190689446-3b78da95-ed6e-4251-a57b-62d935dfe745.png)
+![Captura de ecrã 2022-11-14 215532](https://user-images.githubusercontent.com/108989054/201776240-a7b41787-3c77-4926-a711-0ca25ffb9028.jpg)
+
  
 <a href="https://inaciohugo.github.io/Esports/">🔗 Click here to check</a> 
   
