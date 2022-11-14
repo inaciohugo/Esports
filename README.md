@@ -1,9 +1,9 @@
-<h1>World Cup Schedule </h1> 
+<h1>NLW Sports </h1> 
 
-![Captura de ecrã 2022-11-14 215532](https://user-images.githubusercontent.com/108989054/201776240-a7b41787-3c77-4926-a711-0ca25ffb9028.jpg)
+![Captura de ecrã 2022-11-14 220011](https://user-images.githubusercontent.com/108989054/201777000-bac42d36-24d8-490e-a80e-ef99b4ddbd67.jpg)
 
  
-<a href="https://inaciohugo.github.io/Esports/">🔗 Click here to check</a> 
+<a href="https://inaciohugo.github.io/Esports/">🔗 ->Demo<-</a> 
   
   <h2> 🛠 Technologies: </h2>
   
